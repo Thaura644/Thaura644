@@ -1,10 +1,6 @@
 ## 🚀 About Me 💫
 
-🔧 **Building:** [Payday](https://www.paydaymoney.net) – a financial infrastructure platform enabling borderless transfers, group payments, earned wage access, and WhatsApp-powered payment experiences for businesses and individuals.
-🤝 **Open to Collaborate On:** Open-source and proprietary projects focused on **blockchain, emerging markets solutions, and decentralizing wealth**. Passionate about solving legacy problems with modern technology.
-🌱 **Currently Learning:** Advancing my skills in **AI/ML Engineering** and **DevOps (Kubernetes)** to build more intelligent and scalable systems.
-💡 **Expertise & Interests:** Happy to discuss **Database Management, Project Management, Debugging, Legacy System Modernization, and API Development**. Also have a deep interest in creative writing and poetry.
-✨ **A core belief:** I am deeply patient and believe in empowering people to become the best versions of themselves, both in collaborative projects and in life.
+🔧 **Building:** [Payday](https://www.paydaymoney.net) – a financial infrastructure platform enabling borderless transfers, group payments, earned wage access, and WhatsApp-powered payment experiences for businesses and individuals.<br/>🤝 **Open to Collaborate On:** Open-source and proprietary projects focused on **blockchain, emerging markets solutions, and decentralizing wealth**. Passionate about solving legacy problems with modern technology.<br/>🌱 **Currently Learning:** Advancing my skills in **AI/ML Engineering** and **DevOps (Kubernetes)** to build more intelligent and scalable systems.<br/>💡 **Expertise & Interests:** Happy to discuss **Database Management, Project Management, Debugging, Legacy System Modernization, and API Development**. Also have a deep interest in creative writing and poetry.<br/>✨ **A core belief:** I am deeply patient and believe in empowering people to become the best versions of themselves, both in collaborative projects and in life.
 
 
 ## 🌐 Socials:
