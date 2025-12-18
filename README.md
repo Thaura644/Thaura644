@@ -1,13 +1,9 @@
 ## 🚀 About Me 💫
 
 🔧 **Building:** [Payday](https://www.paydaymoney.net) – a financial infrastructure platform enabling borderless transfers, group payments, earned wage access, and WhatsApp-powered payment experiences for businesses and individuals.
-
 🤝 **Open to Collaborate On:** Open-source and proprietary projects focused on **blockchain, emerging markets solutions, and decentralizing wealth**. Passionate about solving legacy problems with modern technology.
-
 🌱 **Currently Learning:** Advancing my skills in **AI/ML Engineering** and **DevOps (Kubernetes)** to build more intelligent and scalable systems.
-
 💡 **Expertise & Interests:** Happy to discuss **Database Management, Project Management, Debugging, Legacy System Modernization, and API Development**. Also have a deep interest in creative writing and poetry.
-
 ✨ **A core belief:** I am deeply patient and believe in empowering people to become the best versions of themselves, both in collaborative projects and in life.
 
 
@@ -61,6 +57,10 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-%23714B67?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucyA9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTI4IiBoZWlnaHQ9IjQzIiB2aWV3Qm94PSIwIDAgMTI4IDQzIj48cGF0aCBkPSJNNjQuNTg5LjQ0NkM0MS4yNjQuNDQ2IDIyLjI1NCAxOS40NDcgMjIuMjU0IDQyLjc2aDEyLjk1MWMwLTE2LjE4MiAxMy4xNjItMjkuMzMzIDI5LjM4NC0yOS4zMzMgMTYuMjIyIDAgMjkuMzY1IDEzLjE1IDI5LjM2NSAyOS4zMzNIMTA2LjkyYzAtMjMuMzE0LTE5LjAxLTQyLjMxNC00Mi4zMzEtNDIuMzE0eiIgZmlsbD0iI2ZmZmZmZiIvPjwvc3ZnPg==&logoColor=white)
+![Odoo Dev](https://img.shields.io/badge/Odoo_Dev-%23017E84?style=for-the-badge&logoColor=white)
+![OWL JS](https://img.shields.io/badge/OWL_JS-%23000000?style=for-the-badge&logo=javascript&logoColor=white)
+![VPS Dev](https://img.shields.io/badge/VPS_Dev-%230db7ed?style=for-the-badge&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=thaura644&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
